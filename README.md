@@ -1,2 +1,2 @@
 Hello friends!
-Welcome to my personnal webpage.
+Welcome to my personal webpage.
